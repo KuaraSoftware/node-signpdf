@@ -1,6 +1,6 @@
 {
   "name": "kuara-signpdf",
-  "version": "1.4.1",
+  "version": "1.4.3",
   "description": "Simple signing of PDFs in node.",
   "repository": {
     "type": "git",
